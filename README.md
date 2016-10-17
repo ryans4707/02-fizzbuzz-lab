@@ -33,6 +33,8 @@ Test-Driven Development allows us to fully utilize our mental capacity to clearl
 > — <cite>Joe M Burgess</cite>
 
 ## Good luck!
+Code your solution in `fizzbuzz.rb`.
+
 Use `rspec` to guide you through solving this lab.
 
 HINT: one math operator you might need for this lab is **modulus** (`%`) or "mod".  In short, it returns the _remainder_ of the left operand divided by the right operand.  
